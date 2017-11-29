@@ -1,2 +1,2 @@
 # kanban
-A project to version control a normative and internationalized glossary of LKU Kanban terminology.
+A documentation-only project to publish a version-controlled and internationalized glossary of LKU Kanban terminology.
